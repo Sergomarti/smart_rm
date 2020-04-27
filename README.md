@@ -1,4 +1,4 @@
-#SmartRm
+# SmartRm
 SmartRM - python script that create trash can in home directory and allow:
   - Delete file (put into the basket)
   - Delete directory (with all attached files and subdirectories)
@@ -7,9 +7,9 @@ SmartRM - python script that create trash can in home directory and allow:
   - Empty entire basket
   -  Recover file from recycle bin
   
-#Requirements
+# Requirements
   - The program can be used as a command line utility, or as a library (imported from other code)
   - Operations Logging
   
-#By Martirosov Sergey
+# By Martirosov Sergey
 @Serdomarti
