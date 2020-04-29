@@ -42,7 +42,7 @@ def console(trash_can: smart_rm.SmartRm):
             print(error)
         else:
             print(f'File {args.path} permanently deleted')
-    elif args.clearall:
+    elif args.clear_all:
         try:
             trash_can.clear_all_trash()
         except FileExistsError as error:
